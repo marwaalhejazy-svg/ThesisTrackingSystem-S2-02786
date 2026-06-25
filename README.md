@@ -29,7 +29,7 @@ This system manages postgraduate thesis progress tracking.
 3. Update DatabaseConnection.java with your credentials
 
 ## GitHub Repository
-[Your GitHub Repository Link]
+[(https://github.com/marwaalhejazy-svg/ThesisTrackingSystem-S2-02786)]
 
 ## Author
 Marwa Mousa
